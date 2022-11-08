@@ -15,12 +15,12 @@
 ## Deploy
 
 ### Deploy To Heroku Now:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jigarvarma2005/ForceSub_Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/YourMan92/ForceSub_Bot)
 
 ### Deploy in vps
 - Clone this repo
 ```
-git clone https://github.com/Jigarvarma2005/ForceSub_Bot
+git clone https://github.com/YourMan92/ForceSub_Bot
 ```
 - Change directory
 ```
@@ -42,7 +42,7 @@ python3 bot.py
 - Read `Config.py` to know all configs
 
 ## Thanks to
-- [Jigar Varma](https://github.com/Jigarvarma2005)
+- [Jigar Varma](https://github.com/YourMan92)
 - [viperadnan](https://github.com/viperadnan-git)
 - [PyroGram](https://PyroGram.org)
 - [Hasibul Kabir](https://GitHub.com/hasibulkabir) and [Spechide](https://GitHub.com/spechide) for helping.
